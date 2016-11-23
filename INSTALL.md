@@ -1,1 +1,0 @@
-Please follow [installation instructions on the Kartograph website](http://kartograph.org/docs/kartograph.py/#installing-kartograph-py).
