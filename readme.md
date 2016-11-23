@@ -42,4 +42,4 @@ However, feel free to test it while it is been developed. To do so I recommend t
 (kartograph)> python setup.py install
 ```
 
-See install documentation
+See [install](http://kartograph.org/docs/kartograph.py/#installing-kartograph-py) documentation
